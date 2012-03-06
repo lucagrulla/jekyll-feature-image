@@ -1,0 +1,10 @@
+#jekyll-feature-image
+
+To install:
+Cut and paste the code in your _plugin directory
+
+#Configuration:
+Add few configuration lines to you _config.yml:
+
+image_folder: "assets/images"
+default_feature_image: "assets/images/default-header.jpg"
